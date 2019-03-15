@@ -1,5 +1,4 @@
 Extract Replies From Email
-
 =====
 
 This library is forked from https://github.com/mailgun/talon
